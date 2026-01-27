@@ -25,3 +25,4 @@ nftset=/speedtest.net/4#inet#fw4#vpn_domains
 nftset=/trae.ai/4#inet#fw4#vpn_domains
 nftset=/trae.com/4#inet#fw4#vpn_domains
 nftset=/trae.com.cn/4#inet#fw4#vpn_domains
+nftset=/mchost.guru/4#inet#fw4#vpn_domains
